@@ -1,4 +1,4 @@
-/* Beléptető rendszer készítése 1.
+/* Beléptető rendszer készítése 
    Készítette: Kránitz Ferenc Máté - BMXQYQ - Széchényi István Egyetem
    Dátum: Mosonmagyaróvár, 2022.12.17.
 */
