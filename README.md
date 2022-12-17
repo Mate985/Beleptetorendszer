@@ -2,9 +2,13 @@
 Széchenyi István Egyetem - Mikroelektromechanikai rendszerek Vizsgafeladat
 
 Készítette: Kránitz Ferenc Máté
+
 Neptun kód: BMXQYQ
+
 Dátum: 9200 Mosonmagyaróvár, 2022.12.17
+
 Tantárgy: Mikroelektromechanikai rendszerek (GKLB_INTM020)
+
 Feladat: Vizsgafeladat
 
 Tisztelt Olvasó! 
